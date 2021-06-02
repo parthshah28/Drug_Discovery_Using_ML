@@ -1,4 +1,4 @@
-# bioactivity-prediction-app
+# App for Drug Discovery
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
